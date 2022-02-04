@@ -8,5 +8,8 @@ body input {
   border-radius: 5px;
   border: 1px solid #cccccc;
 }
+body input + input {
+  margin-top: 10px;
+}
 
 /*# sourceMappingURL=index.css.map */
